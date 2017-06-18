@@ -1,22 +1,71 @@
- <div class="container">
-    <div class="row">
-      <div class="col-md-10 col-md-offset-1">
-        <div class="title text-center">
-          <h1>Mohamedamin khalif </h1>
-          <h3>Soon to be Fullstack Developer</h3>
-          <h4><a href="http://neoelemento.com">neoelemento.com</a></h4>
-          <hr />
-          <ul class="list-inline">
-            <li><i class="devicon-laravel-plain colored"></i></li>
-            <li><i class="devicon-javascript-plain colored"></i></li>
-            <li><i class="devicon-html5-plain colored"></i></li>
-            <li><i class="devicon-angularjs-plain colored"></i></li>
-            <li><i class="devicon-linux-plain"></i></li>
-          </ul>
-        </div>
-        
-        <!-- summary section -->
-        <div class="summary">
-          <h2 class="text-center">Summary</h2>
-          <p> I Am Currenly a Free Code Camp student i love coding coding i loved it since i was a little kid i have applied for Prime Academy around january
-          The instructors told me that i need to improve my coding skills .</p>
+<div class="contact">
+	  <center> <h1> Mohamedamin Khalif
+		  <p> 13700 Valley View rd Apt #257 </p> 
+		  <p>Eden prairie MN 55344 </p>
+		  <p> Phone Number 952-686-8890 </p>
+		   <p> <a href="mailto:mohamedaminasad@gmail.com" >Email: Mohamedaminasad@gmail.com </a>
+		  </h1> </center> </div>
+	  	 <img 
+    style="margin-top: 20px:100px; height: 200px;" 
+    src="https://pbs.twimg.com/media/CkuQRJUUgAIbvPf.jpg">	
+	
+	  <div 	 
+	       style="
+	margin-top: 20px;	    
+">
+		   
+	<nav class="nav">	
+	<ul>	
+		
+		<li> <a class="selected" href="#">Education</a></li>
+		<li> <a class="selected" href="#">Work Experince </a></li>
+		<li> <a class="selected" href="#">skills
+			</a></li>	
+	</ul>		
+		  </nav>
+		  
+		  
+</div>
+	
+	</head>
+  <body>
+	
+<hr>
+		<div p.dotted {border-style: dotted;}> 								       
+	  <h2> <center> Education </center></h2>
+	  
+			 <ul> 
+				 <li> Chaska High School</li>
+				 <li> Ubah Medical Academy </li>
+				 <li> Eden Prairie High School (graduated past summer) </li>
+				 <li> Normandale Community College (Fall semester)</li>
+			<hr>	 </ul>
+	  <h2><center> Worked Experince </center></h2> 
+				 
+				 <ul>
+					 <li> Walmart '2014 </li>
+					 <li> Valet '2015 </li>
+					 <li> volunteered at New American Academy '2015 </li>						 
+					 <li> Advance Security Officer '2016</li>
+					 <li> Mainland Transportation (current)</li>
+				 </ul>
+				 <hr>  
+	  <h2> <center> Skills </center> </h2>
+		 <ul>	
+			 <li> basic Java and html/css </li>		 
+ <li> Organized </li>			
+ <li> Multitasking</li>			
+ <li>Interpersonal skills</li>			
+ <li> Pretty Good self learner</li>			
+ <li> Good listener</li>			
+ <li>Promblem solver type of person</li>		
+ </ul>
+			</div>
+		 <hr>				 
+					 
+	
+		 </body>
+		  </html>
+		 
+	 	
+       
